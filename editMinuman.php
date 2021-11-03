@@ -34,11 +34,11 @@ while ($minuman = mysqli_fetch_array($result)) {
 <body>
     <a href="index.php">Home</a>
     <br /><br />
-    <h2>Kelompok XX</h2>
+    <h2>Kelompok 02</h2>
     <form name="update_minuman" method="post" action="editMinuman.php">
         <table border="0">
             <tr>
-                <td>Nama Makanan</td>
+                <td>Nama Minuman</td>
                 <td><input type="text" name="nama" value=<?php echo
                                                             $nama; ?>></td>
             </tr>

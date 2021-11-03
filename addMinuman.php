@@ -11,7 +11,7 @@
 <body>
     <a href="index.php">Go to Home</a>
     <br /><br />
-    <h2>Kelompok XX</h2>
+    <h2>Kelompok 02</h2>
     <form action="addMinuman.php" method="post" name="form1">
         <table width="25%" border="0">
             <tr>
